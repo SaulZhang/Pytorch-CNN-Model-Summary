@@ -9,12 +9,14 @@ Record the main model in the evolution of CNN
 
 3.ResNext （[paper](https://arxiv.org/abs/1611.05431)）
 
-4.SeNet（[paper](https://arxiv.org/abs/1709.01507)）
+4.NasNet （[paper](https://arxiv.org/abs/1707.07012)）
 
-5.CapsuleNet（[paper](https://arxiv.org/pdf/1710.09829.pdf)）
+5.SeNet（[paper](https://arxiv.org/abs/1709.01507)）
 
-6.MobileNetV2（[paper](https://arxiv.org/abs/1801.04381))
+6.CapsuleNet（[paper](https://arxiv.org/pdf/1710.09829.pdf)）
 
-7.ShuffleNetV2（[paper](https://arxiv.org/abs/1807.11164))
+7.MobileNetV2（[paper](https://arxiv.org/abs/1801.04381))
 
-8.SkNet （[paper](https://arxiv.org/abs/1903.06586)）
+8.ShuffleNetV2（[paper](https://arxiv.org/abs/1807.11164))
+
+9.SkNet （[paper](https://arxiv.org/abs/1903.06586)）

@@ -3,7 +3,7 @@ Record the main model in the evolution of CNN
 
 <h1>Index</h1>
 
-1.SqueezNet([paper](https://arxiv.org/pdf/1602.07360.pdf))
+1.SqueezNet ([paper](https://arxiv.org/pdf/1602.07360.pdf))
 
 2.Preact_Resnet（[paper](https://arxiv.org/abs/1603.05027))
 

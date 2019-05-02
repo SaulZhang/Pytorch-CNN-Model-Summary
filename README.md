@@ -7,4 +7,4 @@ Record the main model in the evolution of CNN
 
 2.ResNext （[paper](https://arxiv.org/abs/1611.05431)）
 
-2.SkNet （[paper](https://arxiv.org/abs/1903.06586)）
+3.SkNet （[paper](https://arxiv.org/abs/1903.06586)）

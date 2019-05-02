@@ -13,7 +13,7 @@ Record the main model in the evolution of CNN
 
 5.CapsuleNet（[paper](https://arxiv.org/pdf/1710.09829.pdf)）
 
-6.MobileNetV2（[paper](https://arxiv.org/abs/1801.04381)
+6.MobileNetV2（[paper](https://arxiv.org/abs/1801.04381))
 
 7.ShuffleNetV2（[paper](https://arxiv.org/abs/1807.11164)
 
